@@ -16,8 +16,5 @@ A professional financial dashboard built using Streamlit and Plotly.
 - Pandas
 - yFinance
 
-## Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+## Access the App-
+https://aashishn-stockdashboard.streamlit.app/
